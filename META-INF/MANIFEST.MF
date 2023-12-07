@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: NewBankOpening
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2023-Aug-21 00:00:00
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Customer@NBO
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: NewBankOpening_010101_20230821T134225_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2023-Aug-21 19:12:33
+Pega-Codeset-Name: Customer
+Instance-Count: 2402
+
+Name: FileMetadata
+
